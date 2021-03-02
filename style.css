@@ -1,0 +1,102 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+#calc {
+
+    background-color:rgb(219, 157, 81);
+
+}
+#btn_clr
+{
+background-color: red;
+color: white;
+
+}
+
+#btn_1 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_2 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_3 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_4 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_5 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_6 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_7 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_8 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_9 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_0 
+{
+    background-color: rgb(13, 119, 22);
+    color: white;   
+}
+#btn_calc
+{
+    background-color: rgb(48, 103, 221);
+    color: white;   
+}
+#btn_sum
+{
+    background-color: rgb(48, 103, 221);
+    color: white;   
+}
+#btn_def
+{
+    background-color: rgb(48, 103, 221);
+    color: white;   
+}
+#btn_sqrt
+{
+    background-color: rgb(48, 103, 221);
+    color: white;   
+}
+#btn_division
+{
+    background-color: rgb(48, 103, 221);
+    color: white;   
+}
+#btn_multiplication
+{
+    background-color: rgb(48, 103, 221);
+    color: white;   
+}
